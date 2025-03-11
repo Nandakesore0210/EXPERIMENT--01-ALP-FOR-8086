@@ -77,7 +77,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-## Programs for arithmetic  operations
+# Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
 ```
@@ -128,6 +128,55 @@ mov [6030],AX
 ## Output  
 
 ![Screenshot (293)](https://github.com/user-attachments/assets/9f62b51f-dd4d-41df-adde-bc319324dbde)
+
+# Programs for logical operations
+
+## Bitwise AND
+### Program:
+```
+MOV AL, 5Ah  
+MOV BL, 3Ch  
+
+AND AL, BL   
+MOV CL, AL
+```
+
+### Output
+![alt text](<Screenshot (297).png>)
+
+## Bitwise OR
+### Program:
+```
+MOV AL, 5Ah  
+OR AL, BL    
+MOV DL, AL
+```
+
+### Output
+![alt text](<Screenshot (298).png>)
+
+## Bitwise XOR
+### Program:
+```
+MOV AL, 5Ah  
+XOR AL, BL   
+MOV DH, AL 
+```
+
+### Output
+![alt text](<Screenshot (299).png>)
+
+## Bitwise NOT
+### Program:
+```
+MOV AL, 5Ah  
+NOT AL       
+MOV BH, AL 
+```
+
+### Output
+![alt text](<Screenshot (300).png>)
+
 
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
