@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Nandakesore J
-Roll no : 212223240103
-Date of experiment : 11/03/2025
+### Name : Nandakesore J
+
+### Roll no : 212223240103
+
+### Date of experiment : 11/03/2025
 
 
 
@@ -129,12 +131,3 @@ mov [6030],AX
 
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
- 
-
-
-
-
-
-
-
-
