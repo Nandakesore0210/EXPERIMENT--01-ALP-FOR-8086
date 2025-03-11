@@ -89,7 +89,7 @@ MOV CX,AX
 
 ## Output
 
-![alt text](<Screenshot (294).png>)
+![Screenshot (294)](https://github.com/user-attachments/assets/89d3edf6-5e48-467c-8f4b-514cc4542b3d)
  
 ## Subtraction   of 8 bit numbers  ALP 
 ```
@@ -101,7 +101,7 @@ MOV [5000H],AX
  
 ## Output  
 
-![alt text](<Screenshot (295).png>)
+![Screenshot (295)](https://github.com/user-attachments/assets/d86ff222-0a5e-480c-9c4a-5150c19b65c4)
 
 ## Multiplication alp
 ```
@@ -114,7 +114,7 @@ MOV BP,AX
 
  ## Output 
 
- ![alt text](<Screenshot (296).png>)
+![Screenshot (296)](https://github.com/user-attachments/assets/dc0e5d47-7a9c-48be-af67-1f5981d469ef)
 
 ## Division alp 
 ```
@@ -127,7 +127,7 @@ mov [6030],AX
 
 ## Output  
 
-![alt text](<Screenshot (293).png>)
+![Screenshot (293)](https://github.com/user-attachments/assets/9f62b51f-dd4d-41df-adde-bc319324dbde)
 
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
