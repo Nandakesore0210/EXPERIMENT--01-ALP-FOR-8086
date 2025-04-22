@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT 01 ALP FOR 8086
 ### Name : Nandakesore J
 
 ### Roll no : 212223240103
